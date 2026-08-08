@@ -18,9 +18,6 @@ US Domestic Flight Delay Analytics Pipeline End-to-end ELT pipeline (Airflow, db
 
 Online Retail Customer Analytics RFM segmentation and cohort analysis on UK retail data, with a repurchase-risk model flagging high-value, high-risk customers.
 
-🧭 A habit across my projects
-
-I document what didn't work, not just what did. A suspiciously good metric usually means the test was wrong, not that the model is great, and I'd rather find that out myself than have someone else find it first.
 
 📫 Connect
 ankinaik@iu.edu
